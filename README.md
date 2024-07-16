@@ -15,7 +15,7 @@ React
 Setup:
 Backend Setup (Django)
 Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/yashssalvi/chatApplication.git
 
 cd your-repo-name/Server/myserver
 Create and activate a virtual environment:
